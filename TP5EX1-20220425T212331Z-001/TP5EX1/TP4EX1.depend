@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1608298607 source:c:\users\dell\documents\mes cours\langage c\codeblocks\tp4ex1\main.cpp
+	<iostream>
+	"CompteEpargne.h"
+
+1620650850 c:\users\dell\documents\mes cours\langage c\codeblocks\tp4ex1\compteepargne.h
+	"compte.h"
+
+1608298334 c:\users\dell\documents\mes cours\langage c\codeblocks\tp4ex1\compte.h
+	<iostream>
+
+1608298347 source:c:\users\dell\documents\mes cours\langage c\codeblocks\tp4ex1\compte.cpp
+	"compte.h"
+
+1620642033 source:c:\users\dell\documents\mes cours\langage c\codeblocks\tp4ex1\compteepargne.cpp
+	"compteEpargne.h"
+
+1650919042 source:c:\users\starinfo\downloads\tp5ex1-20220425t212331z-001\tp5ex1\compte.cpp
+	"compte.h"
+
+1608269534 c:\users\starinfo\downloads\tp5ex1-20220425t212331z-001\tp5ex1\compte.h
+	<iostream>
+
+1620609632 source:c:\users\starinfo\downloads\tp5ex1-20220425t212331z-001\tp5ex1\compteepargne.cpp
+	"compteEpargne.h"
+
+1620618450 c:\users\starinfo\downloads\tp5ex1-20220425t212331z-001\tp5ex1\compteepargne.h
+	"compte.h"
+
+1620705708 source:c:\users\starinfo\downloads\tp5ex1-20220425t212331z-001\tp5ex1\main.cpp
+	<iostream>
+	"CompteEpargne.h"
+

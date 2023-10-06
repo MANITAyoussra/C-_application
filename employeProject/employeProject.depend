@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1650634797 source:c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\employeproject\main.cpp
+	<iostream>
+	"emplyee.h"
+	"responsable.h"
+	<vector>
+	<string>
+
+1650634927 c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\employeproject\include\emplyee.h
+	<string>
+
+1650634992 c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\employeproject\include\responsable.h
+	<vector>
+	<emplyee.h>
+	<string>
+
+1650635455 source:c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\employeproject\src\emplyee.cpp
+	"emplyee.h"
+	<iostream>
+	<string>
+	<vector>
+

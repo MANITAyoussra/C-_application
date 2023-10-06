@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1650583911 source:c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\compteprojet\src\compte.cpp
+	"compte.h"
+	<iostream>
+
+1650583034 c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\compteprojet\include\compte.h
+
+1650581979 source:c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\compteprojet\main.cpp
+	"compte.h"
+	"compteEpargne.h"
+	<iostream>
+
+1650583173 c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\compteprojet\include\compteepargne.h
+	"compte.h"
+	<string>
+
+1650582161 source:c:\users\starinfo\desktop\studyy\iia3\iia3__2021\semester ii\c++\compteprojet\src\compteepargne.cpp
+	"compteEpargne.h"
+	"compte.h"
+	<iostream>
+	<string>
+
